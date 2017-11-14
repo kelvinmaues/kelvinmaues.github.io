@@ -5,7 +5,7 @@ import logo from '../../assets/avatar_me_3.svg';
 
 const Header = () => {
   return (
-    <Navbar className="App-header nav-pull-right" fluid collapseOnSelect>
+    <Navbar className="App-header nav-pull-right border-bottom" fluid collapseOnSelect>
       <Navbar.Header>
         <Navbar.Brand>
           <a href="#">
