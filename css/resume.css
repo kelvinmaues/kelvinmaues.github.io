@@ -122,3 +122,11 @@ a {
   height: 200px;
   align-items: center !important;
 }
+
+.margin-top-12 {
+  margin-top: 12px;
+}
+
+.align-center {
+  align-items: center;
+}
